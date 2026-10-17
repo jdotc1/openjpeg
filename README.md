@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [uclouvain/openjpeg](https://github.com/uclouvain/openjpeg), the JPEG 2000 codec written in C. The upstream project provides the `openjp2` library and command-line codec applications, useful for reading and writing JPEG 2000 images or integrating that format into image-processing software.
+
+**The upstream README describes the repository as unmaintained.** That notice remains below, together with its guidance on the status of individual components. This fork is a development repository; its [default-branch comparison](https://github.com/jdotc1/openjpeg/compare/uclouvain:master...jdotc1:master) provides the current relationship to upstream.
+
+For installation and usage, start with the [official installation guide](https://github.com/uclouvain/openjpeg/wiki/Installation) and [codec documentation](https://github.com/uclouvain/openjpeg/wiki/DocJ2KCodec). The original README preserves the project history, folder guide, deprecated-component notes, and license attribution.
+
+---
+
 # OPENJPEG Library and Applications
 
 ## Unmaintained repository
